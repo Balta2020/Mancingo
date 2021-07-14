@@ -1,0 +1,106 @@
+#EXTM3U
+#EXTINF: 1, XTREMA TV
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+#EXTINF: 1, CANAL 26 ARG
+http://live-edge01.telecentro.net.ar:1935/live/26hd-720/livestream.m3u8
+#EXTINF: 1, CINE ESTELAR
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde437229eff00091b6c30/master.m3u8?advertisingId=&appName=web&appVersion=5.5.1-47ae969efab27ec552faf45ab4c7e4c6a50ac344&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=59b58dcc-9f45-4b92-a6de-0b69e510fb0f&deviceLat=-33.0081&deviceLon=-71.5197&deviceMake=Safari&deviceModel=Safari&deviceType=web&deviceVersion=13.1.2&includeExtendedEvents=false&marketingRegion=VE&sid=f2c03fa6-1afa-4ede-bf97-406268e3a7d1&userId=&serverSideAds=true
+#EXTINF: 1, CINE ACCIÓN
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?advertisingId=&appName=web&appVersion=5.5.1-47ae969efab27ec552faf45ab4c7e4c6a50ac344&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=59b58dcc-9f45-4b92-a6de-0b69e510fb0f&deviceLat=-33.0081&deviceLon=-71.5197&deviceMake=Safari&deviceModel=Safari&deviceType=web&deviceVersion=13.1.2&includeExtendedEvents=false&marketingRegion=VE&sid=abdd34d3-6190-462d-bd1f-48aed69e4db2&userId=&serverSideAds=true
+#EXTINF: 1, MOVIES
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5defde6d6c07b50009cf0757/master.m3u8?advertisingId=&appName=web&appVersion=5.5.1-47ae969efab27ec552faf45ab4c7e4c6a50ac344&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=59b58dcc-9f45-4b92-a6de-0b69e510fb0f&deviceLat=-33.0081&deviceLon=-71.5197&deviceMake=Safari&deviceModel=Safari&deviceType=web&deviceVersion=13.1.2&includeExtendedEvents=false&marketingRegion=VE&sid=00fadf4b-cde1-4a5d-ab96-9295d310b30b&userId=&serverSideAds=true
+#EXTINF: 1, TELEFE CLASICO
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e3ddd1a3ef73b00091d5779/572723/playlist.m3u8?terminate=false&deviceId=59b58dcc-9f45-4b92-a6de-0b69e510fb0f&deviceVersion=13.1.2&appVersion=5.5.1-47ae969efab27ec552faf45ab4c7e4c6a50ac344&deviceType=web&deviceMake=Safari&sid=97095490-fd4f-48d9-874e-16df05ad9ce7&advertisingId=&deviceLat=-33.0081&deviceLon=-71.5197&deviceDNT=0&deviceModel=Safari&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
+#EXTINF: 1, Futbol Fans
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e3ddd1a3ef73b00091d5779/572723/playlist.m3u8?terminate=false&deviceId=59b58dcc-9f45-4b92-a6de-0b69e510fb0f&deviceVersion=13.1.2&appVersion=5.5.1-47ae969efab27ec552faf45ab4c7e4c6a50ac344&deviceType=web&deviceMake=Safari&sid=97095490-fd4f-48d9-874e-16df05ad9ce7&advertisingId=&deviceLat=-33.0081&deviceLon=-71.5197&deviceDNT=0&deviceModel=Safari&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
+#EXTINF: 1, CHAVO DEL 8
+https://videostreaming.cloudserverlatam.com:443/chavotv/chavotv/playlist.m3u8?PlaylistM3UCL
+#EXTINF: 1, CHAPULIN 
+https://blackghost.live/play/zufree-709.php?c=348
+#EXTINF: 1, FM TV
+https://cloud2.streaminglivehd.com:1936/8070/8070/playlist.m3u8?PlaylistM3UCL
+#EXTINF: 1, FM TV 2
+https://rtmp02.portalexpress.es/fmtvmovies2/fmtvmovies2/playlist.m3u8?PlaylistM3UCL
+#EXTINF: 1, INFINITA TV
+https://rtmp02.portalexpress.es/infinitatv/infinitatv/playlist.m3u8?PlaylistM3UCL
+#EXTINF: 1, ORBIT TV
+https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8?PlaylistM3UCL
+#EXTINF: 1, NET TV  https://unlimited1-cl-movistar.dps.live/nettv/nettv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF: 1, 5 MÉXICO
+https://blackghost.live/play/zufree-709.php?c=40969
+#EXTINF: 1,  AZTECA 7
+https://blackghost.live/play/zufree-709.php?c=41048
+#EXTINF: 1, CANAL ESTRELLAS
+https://blackghost.live/play/zufree-709.php?c=40970
+#EXTINF: 1, UNIVISION
+https://blackghost.live/play/zufree-709.php?c=40980
+#EXTINF: 1, UNIMAS
+https://blackghost.live/play/zufree-709.php?c=41497
+#EXTINF: 1, UNICABLE
+https://blackghost.live/play/zufree-709.php?c=41025
+#EXTINF: 1, QUATRO
+https://blackghost.live/play/zufree-709.php?c=41057
+#EXTINF: 1, TELECINCO
+https://blackghost.live/play/zufree-709.php?c=41058
+#EXTINF: 1, ANTENA 3
+https://blackghost.live/play/zufree-709.php?c=41059
+#EXTINF: 1, A&E
+https://blackghost.live/play/zufree-709.php?c=40983
+#EXTINF: 1, TBS
+https://blackghost.live/play/zufree-709.php?c=40985
+#EXTINF: 1, WARNER
+https://blackghost.live/play/zufree-709.php?c=40990
+#EXTINF: 1, SONY
+https://blackghost.live/play/zufree-709.php?c=40991
+#EXTINF: 1, COMEDY CENTRAL
+https://blackghost.live/play/zufree-709.php?c=40995
+#EXTINF: 1, HISTORY
+https://blackghost.live/play/zufree-709.php?c=40996
+#EXTINF: 1, NATGEO
+https://blackghost.live/play/zufree-709.php?c=40997
+#EXTINF: 1, ANIMAL PLANET
+https://blackghost.live/play/zufree-709.php?c=41000
+#EXTINF: 1, HOLA TV
+https://blackghost.live/play/zufree-709.php?c=41012
+#EXTINF: 1, BEINSPORT Ñ
+https://blackghost.live/play/zufree-709.php?c=40971
+#EXTINF: 1, FOXSPORTS MX
+https://blackghost.live/play/zufree-709.php?c=40978
+#EXTINF: 1, FOXSPORTS2 USA
+https://blackghost.live/play/zufree-709.php?c=41007
+#EXTINF: 1, TUDN MX
+https://blackghost.live/play/zufree-709.php?c=40968
+#EXTINF: 1, ESPN2 MX
+https://blackghost.live/play/zufree-709.php?c=41010
+#EXTINF: 1, ESPN MX
+https://blackghost.live/play/zufree-709.php?c=41009
+#EXTINF: 1,  CLAROSPORT MX
+https://blackghost.live/play/zufree-709.php?c=41011
+#EXTINF: 1, TNT
+https://blackghost.live/play/zufree-709.php?c=41014
+#EXTINF: 1, HBO
+https://blackghost.live/play/zufree-709.php?c=40979
+#EXTINF: 1, HBO 2
+https://blackghost.live/play/zufree-709.php?c=41015
+#EXTINF: 1, STAR FUNS
+https://blackghost.live/play/zufree-709.php?c=41017
+#EXTINF: 1, MAXPRIME
+https://blackghost.live/play/zufree-709.php?c=41018
+#EXTINF: 1, SPACE
+https://blackghost.live/play/zufree-709.php?c=41027
+#EXTINF: 1, CINEMAX
+https://blackghost.live/play/zufree-709.php?c=41475
+#EXTINF: 1, FXM
+https://blackghost.live/play/zufree-709.php?c=41477
+#EXTINF: 1, CINE CANAL
+https://blackghost.live/play/zufree-709.php?c=41476
+#EXTINF: 1, PARAMOUNT
+https://blackghost.live/play/zufree-709.php?c=41480
+#EXTINF: 1, STAR ACCION
+https://blackghost.live/play/zufree-709.php?c=41485
+#EXTINF: 1, STAR CINEMA
+https://blackghost.live/play/zufree-709.php?c=41486
+#EXTINF: 1, STAR CLASSIC
+https://blackghost.live/play/zufree-709.php?c=41487
+#EXTINF: 1, MI CINE
+https://blackghost.live/play/zufree-709.php?c=41500
